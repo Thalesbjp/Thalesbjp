@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Thalesbjp
+- 👋 Hi, I’m @Thales M M N
 - 👀 I’m interested in Learning
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and GO
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me thalesbjp@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am from Brasil
 
 <!---
