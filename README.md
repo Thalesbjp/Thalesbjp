@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thales M M N
-- 👀 I’m interested in Learning
+- 👀 I’m searching for my first job as a developer
 - 🌱 I’m currently learning C++ and GO
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me thalesbjp@gmail.com
