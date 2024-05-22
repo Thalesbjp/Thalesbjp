@@ -1,7 +1,7 @@
 ### 👋 Hi,  I’m Thales Negrão
 ### 👀 I’m searching for my first job as a developer
 ### 🌱 I’m currently learning C++ and GO
-### _____________________________________________________________________________
+### ________________________________________________________________________________________
 
 
 
@@ -13,9 +13,11 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalesnegrao/)
 
 
-![Negrao's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesbjp&show_icons=true&theme=algolia)
 
-### Tecnologias em Utilização
+![Negrao's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesbjp&show_icons=true&theme=algolia&bg_color=DEG,483D8B,000000)
+
+
+### Tecnologias em utilização
 
 <div style=display"display: inline_block">
 <img alingn="center" alt="thml5" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -48,3 +50,8 @@
 
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1YrYzmtBECvE0vC-M9JgG0KsQ_J0FqC_T?usp=sharing)
 
+
+
+
+Utilize o link para configuração de seu perfil : 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file)
