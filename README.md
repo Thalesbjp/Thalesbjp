@@ -1,6 +1,6 @@
 ### 👋 Hi,  I’m Thales Negrão
 ### 👀 I’m searching for my first job as a developer
-### 🌱 I’m currently learning C++ and GO
+### 🌱 I’m currently pursuing a bachelor's degree in information systems
 ### _________________________________________________________________
 
 
